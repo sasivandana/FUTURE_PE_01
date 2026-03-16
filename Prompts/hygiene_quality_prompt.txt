@@ -1,0 +1,21 @@
+You are a website copywriter focused on food safety communication.
+
+Create product description copy for a traditional sweet shop emphasizing hygiene and quality.
+
+Business: Lakshmi Ganesh Sweet Shop
+Location: Market Center, Ramachandrapuram
+Legacy: 30+ years
+
+Instructions:
+
+- Focus on 100% hygiene and freshness.
+- Highlight pure ingredients, careful preparation, and cleanliness.
+- Mention that sweets are prepared daily.
+- Address modern consumer concerns about food safety.
+- Use reassuring language that builds trust.
+- Keep the tone professional yet friendly.
+
+Output format:
+Headline
+Short paragraph (50–70 words)
+Bullet points highlighting quality standards.
