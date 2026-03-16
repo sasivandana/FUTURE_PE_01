@@ -77,6 +77,7 @@ The copy repeatedly references Market Center, Ramachandrapuram to strengthen loc
 ---
 
 Repository Structure
+```
 
 FUTURE_PE_01
 │
@@ -95,7 +96,7 @@ FUTURE_PE_01
     ├── cta_content_pack.txt
     ├── tone_variations_output.txt
     ├── value_proposition_output.txt
-
+```
 ---
 
 Deliverables
