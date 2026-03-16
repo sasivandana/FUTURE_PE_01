@@ -1,0 +1,21 @@
+You are a conversion-focused marketing copywriter.
+
+Create strong call-to-action content for a sweet shop encouraging:
+
+1) Free sample tasting
+2) Bulk pre-orders for events.
+
+Business: Lakshmi Ganesh Sweet Shop
+Location: Market Center, Ramachandrapuram
+
+Instructions:
+
+- Write short CTA lines suitable for website buttons and banners.
+- Emphasize weddings, festivals, and celebrations.
+- Highlight the ability to taste before buying.
+- Use energetic and inviting language.
+
+Output format:
+5 CTA headline options
+5 short CTA descriptions
+5 button text suggestions.
