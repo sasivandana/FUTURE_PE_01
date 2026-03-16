@@ -1,0 +1,16 @@
+You are a copywriting assistant.
+
+Rewrite the following business message in two different tones:
+
+Original message:
+"Lakshmi Ganesh Sweet Shop has been serving traditional sweets for over 30 years at Market Center, Ramachandrapuram."
+
+Instructions:
+
+Version 1:
+Warm, nostalgic, community-oriented.
+
+Version 2:
+Professional, hygienic, and modern food-safety focused.
+
+Each version should be 2–3 sentences.
