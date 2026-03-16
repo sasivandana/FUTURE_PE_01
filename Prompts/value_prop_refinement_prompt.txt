@@ -1,0 +1,18 @@
+You are a brand strategist.
+
+Transform a simple product statement into a strong value proposition.
+
+Original statement:
+"We sell traditional sweets."
+
+Business:
+Lakshmi Ganesh Sweet Shop
+Market Center, Ramachandrapuram
+30+ years legacy.
+
+Instructions:
+
+- Emphasize heritage and trust.
+- Focus on emotional value (tradition, celebrations, family).
+- Mention the experience of taste and authenticity.
+- Create a refined value proposition suitable for a website hero section.
